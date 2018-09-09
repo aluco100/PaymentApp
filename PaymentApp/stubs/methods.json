@@ -1,0 +1,16 @@
+{
+    [
+    {
+     "name" : "visa",
+     "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Old_Visa_Logo.svg/1280px-Old_Visa_Logo.svg.png"
+    },
+     {
+     "name" : "mastercard",
+     "image" : "https://cdn.icon-icons.com/icons2/1186/PNG/512/1490135018-mastercard_82253.png"
+     },
+     {
+     "name" : "american express",
+     "image" : "https://cdn4.iconfinder.com/data/icons/simple-peyment-methods/512/amex_american_express-512.png"
+     }
+    ]
+}
